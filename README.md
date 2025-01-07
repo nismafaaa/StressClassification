@@ -18,7 +18,7 @@ This project aims to analyze and cluster students' stress levels during exams us
 ---
 
 ## Dataset
-The dataset contains Electrodermal Activity (EDA) and body temperature (TEMP) measurements of students during exams. 
+The dataset used in this project is from the study by Amin et al. (2022) titled "A wearable exam stress dataset for predicting grades using physiological signals." This dataset was collected using wearable devices that monitored students' physiological signals including Electrodermal Activity (EDA) and body temperature (TEMP) during an exam. It is part of the Wearable Exam Stress Dataset (WESAD) available on PhysioNet. You can download the dataset directly from PhysioNet using wget command like in the notebook.
 
 - **EDA:** Represents the electrical conductance of the skin, which increases with stress levels.
 - **TEMP:** Indicates the body temperature of the students during the exam.
